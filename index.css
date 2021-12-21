@@ -7,3 +7,9 @@ body, html {
 html {
     background-color: lightpink;
 }
+
+h1 {
+    color: #fff;
+    background-color: #000;
+    border: 1px solid lightseagreen;
+}
